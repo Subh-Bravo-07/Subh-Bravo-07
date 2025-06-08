@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Subho a.k.a (H.I.V.E. MIND)</h1>
+<h1 align="center">Hi 👋, I'm Subh a.k.a (H.I.V.E. MIND)</h1>
 <h3 align="center">A passionate Cybersecurity Enthusiast & Full-Stack Learner</h3>
 
 # 💫 About Me:
