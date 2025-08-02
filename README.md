@@ -5,7 +5,7 @@
   <a href="#-key-projects">🚀 Projects</a> •
   <a href="#-tech-stack">🛠️ Tech Stack</a> •
   <a href="#-about-me">💫 About Me</a> •
-  <a href="#trophy-achievements">🏆 Achievements</a> •
+  <a href="#-progress--goals">🏆 Progress</a> •
   <a href="#-connect-with-me">📫 Connect</a>
 </p>
 
@@ -86,7 +86,7 @@
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🏆 Progress and Goals
 
 - 🎓 **Certifications in Progress**  
   - Offensive Security Certified Professional (OSCP)  
