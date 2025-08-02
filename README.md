@@ -1,115 +1,127 @@
-<h1 align="center">Hi 👋, I'm Subh a.k.a (H.I.V.E. MIND)</h1>
-<h3 align="center">A passionate Cybersecurity Enthusiast & Full-Stack Learner</h3>
+<h1 align="center">👋 Hey there, I’m Subh (a.k.a. H.I.V.E. MIND)</h1>
+<h3 align="center">🔐 Cybersecurity Enthusiast | 🌐 Full-Stack Learner | 🛠️ Open-Source Contributor</h3>
 
-# 💫 About Me:
-###
-<img align="center" height="150" src="https://gifdb.com/images/high/ghost-cod-sitting-while-holding-two-guns-dnq81ojlqqni27qb.webp"   />
-
-🔭 I’m currently working on:
-Building secure web applications and exploring ethical hacking challenges on platforms like TryHackMe and Hack The Box.
-
-👯 I’m looking to collaborate on:
-Open-source security tools, CTF teams, and full-stack projects that need secure architecture.
-
-🤝 I’m looking for help with:
-Mastering advanced penetration testing techniques and understanding real-world threat modeling.
-
-🌱 I’m currently learning:
-Advanced Web Exploitation, Network Security, and Malware Analysis — alongside sharpening my Linux and Python scripting skills.
-
-💬 Ask me about:
-Cybersecurity basics, Web Development (HTML, CSS, JS), Scripting in Python, Linux commands, Java fundamentals, and MySQL queries.
-
-⚡ Fun fact:
-I believe the best firewall is curiosity — it blocks ignorance and lets knowledge through 🔐
-
-## 🌐 Socials:
-<!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/your-username/" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
-</a>
-<!-- Twitter -->
-<a href="https://twitter.com/your-username" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"/>
-</a>
-<!-- Discord -->
-<a href="https://discord.com/users/your-userid" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"/>
-</a>
-<!-- Gmail -->
-<a href="mailto:your.email@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/>
-</a>
+<p align="center">
+  <a href="#rocket-projects">🚀 Projects</a> •
+  <a href="#hammer-and-wrench-tech-stack">🛠️ Tech Stack</a> •
+  <a href="#about-me">💫 About Me</a> •
+  <a href="#trophy-achievements">🏆 Achievements</a> •
+  <a href="#connect-with-me">📫 Connect</a>
+</p>
 
 ---
-# 💻 Tech Stack:
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-</a>
-<span style="display:inline-block; width:12px;"></span>
-<a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-</a>
-<span style="display:inline-block; width:12px;"></span>
-<a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-</a>
-<span style="display:inline-block; width:12px;"></span>
-<a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-</a>
-<span style="display:inline-block; width:12px;"></span>
-<a href="https://en.cppreference.com/w/c" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
-</a>
-<span style="display:inline-block; width:12px;"></span>
-<a href="https://en.cppreference.com/w/cpp" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
-</a>
-<span style="display:inline-block; width:12px;"></span>
-<a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
-</a>
-<span style="display:inline-block; width:12px;"></span>
-<a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-</a>
-<span style="display:inline-block; width:12px;"></span>
-<a href="https://www.java.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-</a>
-<span style="display:inline-block; width:12px;"></span>
-<a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
-</a>
-<span style="display:inline-block; width:12px;"></span>
-<a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
-</a>
-<span style="display:inline-block; width:12px;"></span>
-<a href="https://www.nginx.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo" />
-</a>
 
+## 💫 About Me
+
+<p align="center">
+  <img src="https://gifdb.com/images/high/ghost-cod-sitting-while-holding-two-guns-dnq81ojlqqni27qb.webp" alt="Curious Ghost Cod" width="300"/>
+</p>
+
+- 🔭 **Current Focus**  
+  Building secure web applications and tackling ethical-hacking challenges (TryHackMe, Hack The Box, PicoCTF).
+
+- 🌱 **Learning Path**  
+  - Advanced Web Exploitation  
+  - Network Security & Threat Modeling  
+  - Malware Analysis & Reverse Engineering  
+  - Python & Bash Scripting for Security Automation
+
+- 👯 **Collaboration**  
+  - Open-source security tooling  
+  - CTF teams & write-ups  
+  - Full-stack projects with a security-first mindset
+
+- 🤝 **Seeking Help With**  
+  Mastering advanced penetration-testing methodologies and real-world attack simulations.
+
+- 💬 **Ask Me About**  
+  Web development (HTML, CSS, JavaScript), Linux internals & commands, Python scripting, Java fundamentals, MySQL queries.
+
+- ⚡ **Fun Fact**  
+  “I believe the best firewall is curiosity — it blocks ignorance and lets knowledge through 🔐”
 
 ---
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Subh-Bravo-07&theme=aura&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Subh-Bravo-07&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Subh-Bravo-07&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Subh-Bravo-07&theme=aura&no-frame=false&no-bg=true&margin-w=4)
+## 🚀 Key Projects
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Subh-Bravo-07&limit=5&theme=aura&combine_all_yearly_contributions=true)
+| Project                        | Description                                           | Tech / Tools                   |
+| ------------------------------ | ----------------------------------------------------- | ------------------------------ |
+| 🔍 **Pentest-Helper**          | CLI tool to automate common pen-testing workflows     | Python, Nmap, Metasploit API   |
+| 🌐 **SecureBlog**              | A full-stack, OWASP-hardened blogging platform        | Node.js, Express, MongoDB, Docker |
+| 🎯 **CTF-Dashboard**           | Visualize and track CTF performance & solve history   | React, Chart.js, Firebase      |
+| 🔒 **ThreatModeler**           | Interactive threat-modeling web app                   | Django, D3.js, PostgreSQL      |
 
-### Visitors:
+> Check out more at [github.com/Subh-Bravo-07](https://github.com/Subh-Bravo-07)
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" alt="Nginx"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/> 
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Subh-Bravo-07&theme=aura&show_icons=true&include_all_commits=true" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subh-Bravo-07&theme=aura&layout=compact" alt="Top Languages" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Subh-Bravo-07&theme=aura&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🏆 Achievements & Certifications
+
+- 🎓 **Certifications in Progress**  
+  - Offensive Security Certified Professional (OSCP)  
+  - eLearnSecurity Junior Pen-Tester (eJPT)  
+  - CompTIA Security+ (SY0-601)
+
+- 🏅 **CTF & Competition Highlights**  
+  - Actively competing on TryHackMe, Hack The Box, PicoCTF, and other platforms  
+  - Preparing for upcoming university & community CTFs
+
+> 🚀 Stay tuned—for new milestones, certifications, and CTF podium finishes!
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-username" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/your-username" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" alt="Twitter"/>
+  </a>
+  <a href="https://discord.com/users/your-userid" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" alt="Discord"/>
+  </a>
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" alt="Email"/>
+  </a>
+  <a href="https://github.com/Subh-Bravo-07" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
+  </a>
+</p>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Subh-Bravo-07/count.svg" alt="Visitor Count" />
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=Subh-Bravo-07&color=blueviolet)  
 </div>
-
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
