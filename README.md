@@ -86,9 +86,9 @@
 
 ---
 
-## 🏆 Progress and Goals
+## 🏆 Progress & Goals
 
-- 🎓 **Certifications in Progress**  
+- 🎓 **Certifications in Progress (GOALS)**  
   - Offensive Security Certified Professional (OSCP)  
   - eLearnSecurity Junior Pen-Tester (eJPT)  
   - CompTIA Security+ (SY0-601)
