@@ -2,11 +2,11 @@
 <h3 align="center">🔐 Cybersecurity Enthusiast | 🌐 Full-Stack Learner | 🛠️ Open-Source Contributor</h3>
 
 <p align="center">
-  <a href="#rocket-projects">🚀 Projects</a> •
-  <a href="#hammer-and-wrench-tech-stack">🛠️ Tech Stack</a> •
-  <a href="##about-me">💫 About Me</a> •
+  <a href="#-key-projects">🚀 Projects</a> •
+  <a href="#-tech-stack">🛠️ Tech Stack</a> •
+  <a href="#-about-me">💫 About Me</a> •
   <a href="#trophy-achievements">🏆 Achievements</a> •
-  <a href="#connect-with-me">📫 Connect</a>
+  <a href="#-connect-with-me">📫 Connect</a>
 </p>
 
 ---
