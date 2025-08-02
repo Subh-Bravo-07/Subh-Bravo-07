@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Subh a.k.a (H.I.V.E. MIND)</h1>
-<h3 align="center">
-
-A passionate Cybersecurity Enthusiast & Full-Stack Learner</h3>
+<h3 align="center">A passionate Cybersecurity Enthusiast & Full-Stack Learner</h3>
 
 # 💫 About Me:
 ###
-<img align="right" height="150" src="https://gifdb.com/images/high/ghost-cod-sitting-while-holding-two-guns-dnq81ojlqqni27qb.webp"   />
+<img align="center" height="150" src="https://gifdb.com/images/high/ghost-cod-sitting-while-holding-two-guns-dnq81ojlqqni27qb.webp"   />
 
 🔭 I’m currently working on:
 Building secure web applications and exploring ethical hacking challenges on platforms like TryHackMe and Hack The Box.
