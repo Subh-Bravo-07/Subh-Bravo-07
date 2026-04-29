@@ -13,7 +13,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌍_Portfolio-Visit_Now-FF5722?style=for-the-badge)](https://your-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/🌍_Portfolio-Visit_Now-FF5722?style=for-the-badge)](https://subh07-portfolio.vercel.app/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-H.I.V.E.MIND-212C42?style=for-the-badge&logo=tryhackme&logoColor=C11111)](https://tryhackme.com)
 [![HackTheBox](https://img.shields.io/badge/Hack_The_Box-Active-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://hackthebox.com)
 [![PicoCTF](https://img.shields.io/badge/PicoCTF-Competing-3D9970?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJMMiA3bDEwIDUgMTAtNS0xMC01ek0yIDE3bDEwIDUgMTAtNS0xMC01LTEwIDV6TTIgMTJsMTAgNSAxMC01LTEwLTUtMTAgNXoiLz48L3N2Zz4=&logoColor=white)](https://picoctf.org)
@@ -176,7 +176,7 @@ Motto    : "The best firewall is curiosity — it blocks
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://subh07-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-username)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-username)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/your-userid)
