@@ -52,6 +52,52 @@ Motto    : "The best firewall is curiosity — it blocks
 
 ## `$ ls -la /projects`
 
+### 🟢 Active / Released
+
+<table>
+<thead>
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Stack</th>
+<th>Version</th>
+<th>Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://github.com/Subh-Bravo-07/pentest-helper">🔍 <strong>pentest-helper</strong></a></td>
+<td>CLI tool to automate common pen-testing workflows</td>
+<td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></td>
+<td><img src="https://img.shields.io/badge/v0.1.1-blue?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/ACTIVE-00ff41?style=flat-square"/></td>
+</tr>
+<tr>
+<td><a href="https://github.com/Subh-Bravo-07/ctf-writeups">📝 <strong>ctf-writeups</strong></a></td>
+<td>Documented solutions & methodologies from CTF competitions</td>
+<td><img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/></td>
+<td><img src="https://img.shields.io/badge/ongoing-gray?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/UPDATED-00ff41?style=flat-square"/></td>
+</tr>
+<tr>
+<td><a href="https://github.com/Subh-Bravo-07/network-vuln-scanner">🌐 <strong>network-vuln-scanner</strong></a></td>
+<td>Automated network vulnerability detection & reporting tool</td>
+<td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Nmap-0E83CD?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/v1.0.0-brightgreen?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/STABLE-00ff41?style=flat-square"/></td>
+</tr>
+<tr>
+<td><a href="https://github.com/Subh-Bravo-07/webapp-vuln-scanner">🎯 <strong>webapp-vuln-scanner</strong></a></td>
+<td>Web application vulnerability scanner targeting OWASP Top 10</td>
+<td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/></td>
+<td><img src="https://img.shields.io/badge/v0.1.0-blue?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/IN_PROGRESS-orange?style=flat-square"/></td>
+</tr>
+</tbody>
+</table>
+
+### 🚧 In the Lab
+
 <table>
 <thead>
 <tr>
@@ -63,25 +109,19 @@ Motto    : "The best firewall is curiosity — it blocks
 </thead>
 <tbody>
 <tr>
-<td><a href="https://github.com/Subh-Bravo-07">🔍 <strong>Pentest-Helper</strong></a></td>
-<td>CLI tool to automate common pen-testing workflows</td>
-<td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Nmap-0E83CD?style=flat-square"/></td>
-<td><img src="https://img.shields.io/badge/IN_PROGRESS-orange?style=flat-square"/></td>
-</tr>
-<tr>
-<td><a href="https://github.com/Subh-Bravo-07">🌐 <strong>SecureBlog</strong></a></td>
+<td><a href="https://github.com/Subh-Bravo-07">🔒 <strong>SecureBlog</strong></a></td>
 <td>Full-stack, OWASP-hardened blogging platform</td>
 <td><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></td>
 <td><img src="https://img.shields.io/badge/IN_PROGRESS-orange?style=flat-square"/></td>
 </tr>
 <tr>
-<td><a href="https://github.com/Subh-Bravo-07">🎯 <strong>CTF-Dashboard</strong></a></td>
+<td><a href="https://github.com/Subh-Bravo-07">📊 <strong>CTF-Dashboard</strong></a></td>
 <td>Visualize & track CTF performance and solve history</td>
 <td><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/></td>
 <td><img src="https://img.shields.io/badge/IN_PROGRESS-orange?style=flat-square"/></td>
 </tr>
 <tr>
-<td><a href="https://github.com/Subh-Bravo-07">🔒 <strong>ThreatModeler</strong></a></td>
+<td><a href="https://github.com/Subh-Bravo-07">🗺️ <strong>ThreatModeler</strong></a></td>
 <td>Interactive threat-modeling web application</td>
 <td><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=black"/></td>
 <td><img src="https://img.shields.io/badge/IN_PROGRESS-orange?style=flat-square"/></td>
@@ -129,12 +169,12 @@ Motto    : "The best firewall is curiosity — it blocks
 ## `$ cat stats.log`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Subh-Bravo-07&theme=chartreuse-dark&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subh-Bravo-07&theme=chartreuse-dark&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" alt="Top Languages" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Subh-Bravo-07&theme=chartreuse-dark&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&cache_seconds=1800" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subh-Bravo-07&theme=chartreuse-dark&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&cache_seconds=1800" alt="Top Languages" width="49%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subh-Bravo-07&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="GitHub Streak" width="60%"/>
+  <img src="https://streak-stats.demolab.com/?user=Subh-Bravo-07&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="GitHub Streak" width="60%"/>
 </div>
 
 <div align="center">
@@ -169,6 +209,49 @@ Motto    : "The best firewall is curiosity — it blocks
 </div>
 
 > 🚀 Stay tuned — new milestones, certifications, and CTF podium finishes incoming!
+
+---
+
+## `$ sudo cat /etc/hacker_facts.conf`
+
+<div align="center">
+
+<picture>
+  <img src="https://raw.githubusercontent.com/Subh-Bravo-07/Subh-Bravo-07/main/assets/terminal.svg" alt="Animated terminal" />
+</picture>
+
+</div>
+
+> 💡 **Did you know?** The first computer "bug" was a *real* moth — found trapped in a Harvard Mark II relay in 1947. Grace Hopper's team taped it into their logbook: *"First actual case of bug being found."* Debugging has never been the same since. 🦟
+
+<details>
+<summary>🎲 <strong>Click here if you dare... (Hacker Wisdom Vault)</strong></summary>
+
+<br/>
+
+```
+Q: How many hackers does it take to change a light bulb?
+A: None. They just social-engineer the electrician.
+
+Q: Why do programmers prefer dark mode?
+A: Because light attracts bugs.
+
+Q: What's a hacker's favourite movie?
+A: The Net-flix. Wait, no. Troy.
+
+⚠️  WARNING: The following is classified.
+     Unauthorized scrolling is a federal offense.
+     ...just kidding. Keep going.
+
+[ REDACTED ] — clearance level insufficient.
+[ REDACTED ] — nice try, script kiddie.
+[ REDACTED ] — okay fine, this one's just embarrassing.
+
+> root@hive-mind:~# alias hack="learn && practice && repeat"
+> root@hive-mind:~# hack --forever
+```
+
+</details>
 
 ---
 
