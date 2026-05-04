@@ -291,13 +291,12 @@ A: The Net-flix. Wait, no. Troy.
 ---
 
 <div align="center">
-
-```
+<pre>
 > Connection established.
 > Handshake complete.
 > Welcome to H.I.V.E. MIND's terminal.
 > Type 'collaborate' to begin...
-```
+</pre>
 
 *"The best firewall is curiosity — it blocks ignorance and lets knowledge through 🔐"*
 
