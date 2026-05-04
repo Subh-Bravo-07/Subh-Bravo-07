@@ -169,8 +169,23 @@ Motto    : "The best firewall is curiosity — it blocks
 ## `$ cat stats.log`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Subh-Bravo-07&theme=chartreuse-dark&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&cache_seconds=1800" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subh-Bravo-07&theme=chartreuse-dark&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&cache_seconds=1800" alt="Top Languages" width="49%"/>
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Subh-Bravo-07&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true)](https://github.com/Subh-Bravo-07)
+
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Subh-Bravo-07&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="GitHub Streak" width="60%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Subh-Bravo-07&theme=github_dark&bg_color=0d1117" alt="Repos per Language" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Subh-Bravo-07&theme=github_dark&bg_color=0d1117" alt="Most Commit Language" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Subh-Bravo-07&theme=github_dark&bg_color=0d1117" alt="Stats" width="32%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Subh-Bravo-07&theme=matrix&no-bg=true&no-frame=true&margin-w=10&column=7" alt="GitHub Trophies"/>
 </div>
 
 <div align="center">
@@ -216,9 +231,14 @@ Motto    : "The best firewall is curiosity — it blocks
 
 <div align="center">
 
-<picture>
-  <img src="https://raw.githubusercontent.com/Subh-Bravo-07/Subh-Bravo-07/main/assets/terminal.svg" alt="Animated terminal" />
-</picture>
+![Capsule](https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2)
+
+```
+┌──(H.I.V.E.MIND㉿kali)-[~]
+└─$ ./hive_mind --boot
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=800&color=00FF41&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=160&lines=%5BSYSTEM+BOOT%5D+Loading+H.I.V.E.MIND+modules...;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+%5B100%25%5D+OK;PORT+1337%2Ftcp+OPEN+%E2%86%92+hacker+%3A%3A+elite;PORT+9000%2Ftcp+OPEN+%E2%86%92+coffee+%3A%3A+always_on;PORT+4444%2Ftcp+OPEN+%E2%86%92+curiosity+%3A%3A+v%E2%88%9E+(unpatched);alias+hack%3D%22learn+%26%26+practice+%26%26+repeat%22;hack+--forever+%26+disown" alt="Animated terminal" />
 
 </div>
 
