@@ -69,7 +69,7 @@ Motto    : "The best firewall is curiosity — it blocks
 <td><a href="https://github.com/Subh-Bravo-07/pentest-helper">🔍 <strong>pentest-helper</strong></a></td>
 <td>CLI tool to automate common pen-testing workflows</td>
 <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/v0.1.1-blue?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/v0.2.0-blue?style=flat-square"/></td>
 <td><img src="https://img.shields.io/badge/ACTIVE-00ff41?style=flat-square"/></td>
 </tr>
 <tr>
