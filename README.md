@@ -83,7 +83,7 @@ Motto    : "The best firewall is curiosity — it blocks
 <td><a href="https://github.com/Subh-Bravo-07/network-vuln-scanner">🌐 <strong>network-vuln-scanner</strong></a></td>
 <td>Automated network vulnerability detection & reporting tool</td>
 <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Nmap-0E83CD?style=flat-square"/></td>
-<td><img src="https://img.shields.io/badge/v1.0.0-brightgreen?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/v1.1.5-brightgreen?style=flat-square"/></td>
 <td><img src="https://img.shields.io/badge/STABLE-00ff41?style=flat-square"/></td>
 </tr>
 <tr>
