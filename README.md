@@ -24,7 +24,12 @@
 
 ---
 
-<img align="right" src="https://gifdb.com/images/high/ghost-cod-sitting-while-holding-two-guns-dnq81ojlqqni27qb.webp" width="240" alt="Ghost COD" />
+<img 
+    src="https://gifdb.com/images/high/ghost-cod-sitting-while-holding-two-guns-dnq81ojlqqni27qb.webp" 
+    width="280" 
+    align="right"
+    style="margin: 0 0 20px 30px;"
+    alt="Ghost COD">
 
 ## `$ whoami`
 
