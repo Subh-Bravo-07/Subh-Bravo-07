@@ -155,9 +155,11 @@ Motto    : "The best firewall is curiosity —
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Subh-Bravo-07&theme=github_dark" alt="Repos per Language" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Subh-Bravo-07&theme=github_dark" alt="Most Commit Language" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Subh-Bravo-07&theme=github_dark" alt="Stats" width="32%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subh-Bravo-07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="32%"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Subh-Bravo-07&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="32%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subh-Bravo-07&theme=tokyonight&hide_border=true&layout=donut" alt="Language Distribution" width="32%"/>
 
 <br/>
 
@@ -188,7 +190,6 @@ Motto    : "The best firewall is curiosity —
 | ![TryHackMe](https://img.shields.io/badge/TryHackMe-Active-C11111?style=flat-square&logo=tryhackme&logoColor=white) | Active | Regular solver |
 | ![HackTheBox](https://img.shields.io/badge/Hack_The_Box-Active-9FEF00?style=flat-square&logo=hackthebox&logoColor=black) | Active | Machines and challenges |
 | ![picoCTF](https://img.shields.io/badge/picoCTF-Competing-4A90D9?style=flat-square) | Competing | Annual events and practice |
-| University CTFs | Preparing | Upcoming season |
 
 </div>
 
