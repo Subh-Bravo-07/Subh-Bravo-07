@@ -17,6 +17,7 @@
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-H.I.V.E.MIND-212C42?style=for-the-badge&logo=tryhackme&logoColor=C11111)](https://tryhackme.com)
 [![HackTheBox](https://img.shields.io/badge/Hack_The_Box-Active-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://hackthebox.com)
 [![PicoCTF](https://img.shields.io/badge/PicoCTF-Competing-3D9970?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJMMiA3bDEwIDUgMTAtNS0xMC01ek0yIDE3bDEwIDUgMTAtNS0xMC01LTEwIDV6TTIgMTJsMTAgNSAxMC01LTEwLTUtMTAgNXoiLz48L3N2Zz4=&logoColor=white)](https://picoctf.org)
+[![CTF Dashboard](https://img.shields.io/badge/📊_CTF_Dashboard-Live-00ff41?style=for-the-badge)](https://subh-bravo-07.github.io/ctf-writeups/dashboard/)
 [![Profile Views](https://komarev.com/ghpvc/?username=Subh-Bravo-07&color=00ff41&style=for-the-badge&label=VISITORS)](https://github.com/Subh-Bravo-07)
 
 </div>
@@ -74,10 +75,15 @@ Motto    : "The best firewall is curiosity — it blocks
 </tr>
 <tr>
 <td><a href="https://github.com/Subh-Bravo-07/ctf-writeups">📝 <strong>ctf-writeups</strong></a></td>
-<td>Documented solutions & methodologies from CTF competitions</td>
-<td><img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/></td>
+<td>Curated CTF writeups with a public dashboard for tracking platforms, categories, techniques, tools, and solve history</td>
+<td>
+<img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</td>
 <td><img src="https://img.shields.io/badge/ongoing-gray?style=flat-square"/></td>
-<td><img src="https://img.shields.io/badge/UPDATED-00ff41?style=flat-square"/></td>
+<td><a href="https://subh-bravo-07.github.io/ctf-writeups/dashboard/"><img src="https://img.shields.io/badge/DASHBOARD_LIVE-00ff41?style=flat-square"/></a></td>
 </tr>
 <tr>
 <td><a href="https://github.com/Subh-Bravo-07/network-vuln-scanner">🌐 <strong>network-vuln-scanner</strong></a></td>
